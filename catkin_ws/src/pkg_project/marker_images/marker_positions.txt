@@ -1,0 +1,30 @@
+Marker ID: [5]
+Posizione del marker: (4.0318978984219465, 0.47721166842821744, 0.16836484258074932)
+Immagine salvata in: /root/ws/progetto/catkin_ws/src/pkg_project/marker_images/marker_[5].png
+Tempo: 51.165
+Errore: [0.08189789842194628, -0.02278833157178256]
+
+Marker ID: [6]
+Posizione del marker: (2.2257152697205402, 2.6802510757966513, 0.16473670664789797)
+Immagine salvata in: /root/ws/progetto/catkin_ws/src/pkg_project/marker_images/marker_[6].png
+Tempo: 59.487
+Errore: [0.7257152697205402, -0.7197489242033486]
+
+Marker ID: [5]
+Posizione del marker: (3.9968811885441755, 0.517922626401892, 0.16838090436462635)
+Immagine salvata in: /root/ws/progetto/catkin_ws/src/pkg_project/marker_images/marker_[5].png
+Tempo: 72.407
+Errore: [0.046881188544175334, 0.017922626401892017]
+
+Marker ID: [2]
+Posizione del marker: (-2.6730081505837657, 0.46450804343728785, 0.1735845967627284)
+Immagine salvata in: /root/ws/progetto/catkin_ws/src/pkg_project/marker_images/marker_[2].png
+Tempo: 88.997
+Errore: [0.1269918494162341, -0.5354919565627121]
+
+Marker ID: [5]
+Posizione del marker: (4.059857159259819, 0.5276965353336442, 0.1687142565515577)
+Immagine salvata in: /root/ws/progetto/catkin_ws/src/pkg_project/marker_images/marker_[5].png
+Tempo: 21.998
+Errore: [0.10985715925981854, 0.027696535333644245]
+
